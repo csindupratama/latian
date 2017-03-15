@@ -1,2 +1,1 @@
-# latian
-inforetrieval
+#legal retrieval
